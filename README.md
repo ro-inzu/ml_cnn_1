@@ -1,6 +1,6 @@
 # ml_cnn_1
 
-## Convoluational Neural Network
+## Convolutional Neural Network
 - Keras api
 - Organize data
 - Read data from disk
